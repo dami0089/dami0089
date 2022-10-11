@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Damian!
-- 👀 I’m interested in React JS develop
 - 🌱 I’m Vegan
-- 💞️ I’m looking to collaborate on react projects
+- 💞️ I’m looking to collaborate on full stack projects
 - 📫 How to reach me doliva0089@gmail.com
 
 <!---
