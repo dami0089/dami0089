@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Damian!
-- 💞️ I’m looking to collaborate on full stack projects
+- http://deepyze.dev
 - 📫 How to reach me doliva0089@gmail.com
 
 <!---
